@@ -1,6 +1,6 @@
 name: Funny Jokes PRs
 on:
-  pull_request:
+  pull_request-target:
     types: [opened]
 
 jobs:
